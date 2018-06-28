@@ -1,0 +1,14 @@
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\bin\Debug\VehicleDatabase.exe.config
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\bin\Debug\VehicleDatabase.exe
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\bin\Debug\VehicleDatabase.pdb
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.MainPage.resources
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.ModifyPage.resources
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.ModifyTables.resources
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.Properties.Resources.resources
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.csproj.GenerateResource.Cache
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.exe
+C:\Users\Tarik\source\repos\VehicleDatabase\VehicleDatabase\obj\Debug\VehicleDatabase.pdb
